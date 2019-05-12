@@ -1,3 +1,11 @@
-baseurl = "/"
+baseURL = "http://localhost:3000/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Arctic Squall Games"
+theme = "ananke"
+sectionPagesMenu = "main"
+Paginate = 3
+mainSections = ["post", "products"]
+
+[params]
+    twitter = "https://twitter.com/ArcticSquall"
+    instagram = "https://instagram.com/ArcticSquall"
