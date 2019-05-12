@@ -1,7 +1,5 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Content }}
-  </article>
+
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := default (slice "post" "onepagers") }}
   {{/* Create a variable with that section to use in multiple places. */}}
@@ -12,7 +10,13 @@
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <div class="pa3  w-70-ns center">
+      <h2>
+          <em>Creating a one-page D&D adventure each Monday at 1 PM EST!</em>
+      </h2>
+    </div>
+
+    <div class="pa2 pa2-ns w-100 w-70-ns center">
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
