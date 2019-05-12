@@ -5,6 +5,7 @@ theme = "ananke"
 sectionPagesMenu = "main"
 Paginate = 3
 mainSections = ["post", "products"]
+metaDataFormat = "yaml"
 
 [params]
     twitter = "https://twitter.com/ArcticSquall"
