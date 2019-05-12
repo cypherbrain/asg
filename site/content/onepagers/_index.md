@@ -1,9 +1,9 @@
 ---
-title: HELLO
+title: One-Page Adventures
 type: products
 image: /img/ArcticSmall.png
 heading: What we offer
-weight: 0
+weight: 10
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
