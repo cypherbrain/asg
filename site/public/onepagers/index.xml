@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HELLO on Arctic Squall Games</title>
+    <link>https://competent-shaw-271aa6.netlify.com/onepagers/</link>
+    <description>Recent content in HELLO on Arctic Squall Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 23:59:51 -0400</lastBuildDate>
+    
+	<atom:link href="https://competent-shaw-271aa6.netlify.com/onepagers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing3</title>
+      <link>https://competent-shaw-271aa6.netlify.com/onepagers/testing3/</link>
+      <pubDate>Sat, 11 May 2019 23:59:51 -0400</pubDate>
+      
+      <guid>https://competent-shaw-271aa6.netlify.com/onepagers/testing3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TESTING THIS SHIT</title>
+      <link>https://competent-shaw-271aa6.netlify.com/onepagers/testing2/</link>
+      <pubDate>Fri, 17 Dec 2004 15:04:10 +0000</pubDate>
+      
+      <guid>https://competent-shaw-271aa6.netlify.com/onepagers/testing2/</guid>
+      <description>TESTING TESTING TESTING</description>
+    </item>
+    
+  </channel>
+</rss>
