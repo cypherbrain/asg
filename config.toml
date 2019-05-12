@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
 baseURL = "https://example.com"
-theme = "gohugo-theme-ananketest"
+theme = "gohugo-theme-ananke"
 themesDir = "../.."
 
 MetaDataFormat = "yaml"
