@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HELLO on Arctic Squall Games</title>
-    <link>https://competent-shaw-271aa6.netlify.com/onepagers/</link>
-    <description>Recent content in HELLO on Arctic Squall Games</description>
+    <title>One-Page Adventures on Arctic Squall Games</title>
+    <link>https://arcticsquall.com/onepagers/</link>
+    <description>Recent content in One-Page Adventures on Arctic Squall Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2019 23:59:51 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 09:34:39 -0400</lastBuildDate>
     
-	<atom:link href="https://competent-shaw-271aa6.netlify.com/onepagers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arcticsquall.com/onepagers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Testing3</title>
-      <link>https://competent-shaw-271aa6.netlify.com/onepagers/testing3/</link>
-      <pubDate>Sat, 11 May 2019 23:59:51 -0400</pubDate>
+      <title>&#34;Come Back with the Shield, Or...&#34; - One Page Adventure #2
+</title>
+      <link>https://arcticsquall.com/onepagers/002_shield/</link>
+      <pubDate>Mon, 13 May 2019 09:34:39 -0400</pubDate>
       
-      <guid>https://competent-shaw-271aa6.netlify.com/onepagers/testing3/</guid>
-      <description></description>
+      <guid>https://arcticsquall.com/onepagers/002_shield/</guid>
+      <description>Explore a shipwreck, fight bandits, and make friends in this week&amp;rsquo;s one-page adventure! It&amp;rsquo;s up to them to recover a stolen shield after a courier ship gets waylaid by pirates.
+Let me know what you (and your players!) thought of this adventure on Twitter or Instagram. As always, thanks for your support. Happy adventuring!</description>
     </item>
     
     <item>
-      <title>TESTING THIS SHIT</title>
-      <link>https://competent-shaw-271aa6.netlify.com/onepagers/testing2/</link>
-      <pubDate>Fri, 17 Dec 2004 15:04:10 +0000</pubDate>
+      <title>&#34;There&#39;s Goblins in the Mine!&#34; - One Page Adventure #1
+</title>
+      <link>https://arcticsquall.com/onepagers/001_goblins/</link>
+      <pubDate>Sun, 12 May 2019 02:32:25 -0400</pubDate>
       
-      <guid>https://competent-shaw-271aa6.netlify.com/onepagers/testing2/</guid>
-      <description>TESTING TESTING TESTING</description>
+      <guid>https://arcticsquall.com/onepagers/001_goblins/</guid>
+      <description>My first one-page adventure takes players to the forest hamlet of Abruan, where goblins have commandeered the local mine. It&amp;rsquo;s up to your players to take back the mine in the name of the city!
+Let me know what you (and your players!) thought of this adventure on Twitter or Instagram. As always, thanks for your support. Happy adventuring!</description>
     </item>
     
   </channel>
