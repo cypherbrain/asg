@@ -12,6 +12,8 @@ Explore a shipwreck, fight bandits, and make friends in this week's one-page adv
 
 <img src="/img/onepagers/002_shield.jpg" alt="Bandit Adventure" />
 
+**Get the PDF on [DriveThruRPG](https://www.drivethrurpg.com/product/275764/Come-Back-with-the-Shield-Or)!**
+
 Let me know what you (and your players!) thought of this adventure on
 [Twitter](https://twitter.com/ArcticSquall) or [Instagram](https://instagram.com/ArcticSquall).
 As always, thanks for your support. Happy adventuring!

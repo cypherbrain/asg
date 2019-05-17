@@ -14,6 +14,8 @@ to take back the mine in the name of the city!
 
 <img src="/img/onepagers/001_goblins.jpg" alt="Goblin Adventure" />
 
+**Get the PDF on [DriveThruRPG](https://www.drivethrurpg.com/product/275762/Theres-Goblins-in-the-Mine)**!
+
 Let me know what you (and your players!) thought of this adventure on
 [Twitter](https://twitter.com/ArcticSquall) or [Instagram](https://instagram.com/ArcticSquall).
 As always, thanks for your support. Happy adventuring!
