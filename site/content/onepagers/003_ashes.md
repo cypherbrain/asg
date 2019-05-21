@@ -12,6 +12,4 @@ Players take on a dragon worshipping cult in this week’s one-page sidequest! T
 
 <img src="/img/onepagers/003_ashes.jpg" alt="Bandit Adventure" />
 
-Let me know what you (and your players!) thought of this adventure on
-[Twitter](https://twitter.com/ArcticSquall) or [Instagram](https://instagram.com/ArcticSquall).
-As always, thanks for your support. Happy adventuring!
+**Get access to PDFs for all of my one-page sidequests (as well as Discord, map files, and my eternal gratitude) by [becoming a patron today](https://www.patreon.com/ArcticSquallGames)!**

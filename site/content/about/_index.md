@@ -3,8 +3,8 @@ title: "About"
 logo: "/img/ArcticSquall.png"
 ---
 
-Hi, I’m creating a **free one-page adventure every week**. They're designed to work with **Dungeons and Dragons 5th Edition**, but *you can adapt them to your favorite system!*
+Hi, I’m creating a **free one-page sidequest every week**. They're designed to work with **Dungeons and Dragons 5th Edition**, but *you can adapt them to your favorite system!*
 
-Like what I'm creating? **Follow me on [Twitter](https://twitter.com/arcticsquall) and [Instagram](https://instagram.com/arcticsquall)** to get updates when I post each new adventure! I’m also very reachable on social media and I’d love to hear your thoughts.
+Like what I'm creating? **Follow me on [Twitter](https://twitter.com/arcticsquall) and [Instagram](https://instagram.com/arcticsquall)** to get updates when I post each new sidequest! I’m also very reachable on social media and I’d love to hear your thoughts.
 
 I hope you enjoy my work. **Happy adventuring!**
