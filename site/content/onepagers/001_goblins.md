@@ -14,4 +14,4 @@ to take back the mine in the name of the city!
 
 <img src="/img/onepagers/001_goblins.jpg" alt="Goblin Adventure" />
 
-**Get access to PDFs for all of my one-page sidequests (as well as Discord, map files, and my eternal gratitude) by [becoming a patron today](https://www.patreon.com/ArcticSquallGames)!**
+**Get PDFs for all of my one-page sidequests (plus an EXCLUSIVE sidequest each month, Discord, map files, and my eternal gratitude) on [Patreon](https://www.patreon.com/ArcticSquallGames)!**

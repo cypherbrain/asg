@@ -8,7 +8,6 @@ description: >-
 
 ---
 
+<img src="/img/onepagers/001_goblins.jpg" alt="Goblin Adventure" />
 
-Let me know what you (and your players!) thought of this adventure on
-[Twitter](https://twitter.com/ArcticSquall) or [Instagram](https://instagram.com/ArcticSquall).
-As always, thanks for your support. Happy adventuring!
+**Get PDFs for all of my one-page sidequests (plus an EXCLUSIVE sidequest each month, Discord, map files, and my eternal gratitude) on [Patreon](https://www.patreon.com/ArcticSquallGames)!**
