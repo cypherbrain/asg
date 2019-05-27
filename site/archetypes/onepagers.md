@@ -10,4 +10,4 @@ description: >-
 
 <img src="/img/onepagers/001_goblins.jpg" alt="Goblin Adventure" />
 
-**Get PDFs** for **all** of my one-page sidequests (plus an **EXCLUSIVE sidequest** each month, **Discord**, and my eternal gratitude) on **[Patreon](https://www.patreon.com/ArcticSquallGames)!**
+**Get a monthly EXCLUSIVE sidequest**, **access to every PDF**, and **more**) by supporting my content on **[Patreon](https://www.patreon.com/ArcticSquallGames)!**
