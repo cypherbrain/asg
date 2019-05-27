@@ -1,6 +1,6 @@
 ---
 title: >
-    "" - One Page Adventure #
+    "" - One Page Sidequest #
 date: {{ .Date }}
 type: "one-pager"
 featured_image: ""

@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-  {{ $mainSections := default (slice "post" "onepagers") }}
+  {{ $mainSections := default (slice "post" "sidequests") }}
   {{/* Create a variable with that section to use in multiple places. */}}
   {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
   {{/* Check to see if the section is defined for ranging through it */}}
@@ -12,7 +12,7 @@
 
     <div class="pa3  w-70-ns center">
       <h2>
-          <em>Releasing an original one-page Dungeons & Dragons adventure every Monday!</em>
+          <em>Releasing an original one-page Dungeons & Dragons sidequest every Monday!</em>
       </h2>
     </div>
 

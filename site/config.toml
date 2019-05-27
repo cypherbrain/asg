@@ -4,7 +4,7 @@ title = "Arctic Squall Games"
 theme = "ananke"
 sectionPagesMenu = "main"
 Paginate = 3
-mainSections = ["post", "onepagers"]
+mainSections = ["post", "sidequests"]
 metaDataFormat = "yaml"
 
 [params]
